@@ -1,0 +1,11 @@
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\bin\Debug\netcoreapp2.1\VKApiApp.deps.json
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\bin\Debug\netcoreapp2.1\VKApiApp.runtimeconfig.json
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\bin\Debug\netcoreapp2.1\VKApiApp.runtimeconfig.dev.json
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\bin\Debug\netcoreapp2.1\VKApiApp.dll
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\obj\Debug\netcoreapp2.1\VKApiApp.csprojAssemblyReference.cache
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\obj\Debug\netcoreapp2.1\VKApiApp.csproj.CoreCompileInputs.cache
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\obj\Debug\netcoreapp2.1\VKApiApp.AssemblyInfoInputs.cache
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\obj\Debug\netcoreapp2.1\VKApiApp.AssemblyInfo.cs
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\bin\Debug\netcoreapp2.1\VKApiApp.pdb
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\obj\Debug\netcoreapp2.1\VKApiApp.dll
+C:\Third semester 2019-2020 academic year\DataBase\VKApiApp\obj\Debug\netcoreapp2.1\VKApiApp.pdb
